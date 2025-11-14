@@ -106,7 +106,9 @@ Contoh:
 * **Username:** `admin`
 * **Password:** `admin`
 
-  Hasil Instalasi Berhasil:
+
+
+### Hasil Instalasi Berhasil:
 <img width="907" height="922" alt="image" src="https://github.com/user-attachments/assets/e79af245-411d-41d8-9676-a3b1f7711058" />
 <img width="798" height="869" alt="image" src="https://github.com/user-attachments/assets/5dae99b7-b47e-4f8b-a24e-88835e246aa0" />
 
